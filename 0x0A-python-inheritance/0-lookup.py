@@ -4,6 +4,8 @@
 Module with the method lookup
 ============================
 """
+
+
 def lookup(obj):
 
     """Functions for return the attributes for an object"""
